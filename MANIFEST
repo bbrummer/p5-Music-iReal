@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Music-iReal.t
+lib/Music/iReal.pm
